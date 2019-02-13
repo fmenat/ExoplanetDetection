@@ -62,4 +62,4 @@ Disposition over a few of the 1791 candidates of Kepler Mission in 2017.
 |-|-|-|-|
 | K08082.01 |*CONFIRMED*| 0/1 | - |
 
-This table show some of the predictions of our best representation of data, a Random Forest classifier for the task of exoplanet detection (Confirmed), and a SVM RBF for the task of non-exoplanet detection (False Positive). It should be mentioned that the column Confirmed on that system count the ammount of confirmed exoplanets on the date of the study (September 2017), as long as Star is the name of the Parent star in the system; The ones with no information doesn’t show this value.
+This table shows some of the predictions of our best representation of data, a Random Forest classifier for the task of exoplanet detection (Confirmed), and a SVM RBF for the task of non-exoplanet detection (False Positive). It should be mentioned that the Confirmed column on that system count the ammount of confirmed exoplanets at the date of the study (September 2017), as long as Star is the name of the Parent star in the system; The ones with no information doesn’t show this value.
