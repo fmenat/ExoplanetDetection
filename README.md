@@ -2,11 +2,11 @@
 ---
 Refining Exoplanet Detection Using Supervised Learning and Feature Engineering
 By
-* Margarita Bugueño - margarita.bugueno.13@sansano.usm.cl
+* Margarita Bugueño - margarita.bugueno@usm.cl
 
-* Francisco Mena - francisco.mena.13@sansano.usm.cl
+* Francisco Mena - francisco.menat@usm.cl
 
-* Mauricio Araya - maray@inf.utfsm.cl
+* Mauricio Araya - mauricio.araya@usm.cl
 
 Data: http://archive.stsci.edu/kepler/koi/search.php
 
