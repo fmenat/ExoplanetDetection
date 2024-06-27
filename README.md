@@ -1,4 +1,4 @@
-# Exoplanet Detection
+# :computer: Exoplanet Detection with Classical Machine Learning
 ---
 Refining Exoplanet Detection Using Supervised Learning and Feature Engineering
 By
@@ -62,4 +62,44 @@ Disposition over a few of the 1791 candidates of Kepler Mission in 2017.
 |-|-|-|-|
 | K08082.01 |*CONFIRMED*| 0/1 | - |
 
-This table shows some of the predictions of our best representation of data, a Random Forest classifier for the task of exoplanet detection (Confirmed), and a SVM RBF for the task of non-exoplanet detection (False Positive). It should be mentioned that the Confirmed column on that system count the ammount of confirmed exoplanets at the date of the study (September 2017), as long as Star is the name of the Parent star in the system; The ones with no information doesn’t show this value.
+This table shows some of the predictions of our best representation of data, a Random Forest classifier for the task of exoplanet detection (Confirmed), and a SVM RBF for the task of non-exoplanet detection (False Positive). It should be mentioned that the Confirmed column on that system counts the number of confirmed exoplanets at the date of the study (September 2017), as long as Star is the name of the Parent star in the system; The ones with no information doesn’t show this value.
+
+# :floppy_disk: Source
+
+* Preliminary work in a conference
+  * :lock: [Final published version](https://doi.org/10.1109/CLEI.2018.00041)
+  * :unlock: [Preprint](https://www.researchgate.net/publication/334992434_Refining_Exoplanet_Detection_Using_Supervised_Learning_and_Feature_Engineering)
+  * [Poster](https://github.com/fmenat/fmenat/blob/main/posters/2018_ChileWIC_exoplanet.pdf) (in Spanish)
+  * [Presentation](https://github.com/fmenat/fmenat/blob/main/presentations/2018_SLIOA-CLEI_Exoplanet.pdf)
+* Extended work in a journal
+  * :unlock: [Final published version](https://doi.org/10.19153/cleiej.22.3.3)
+
+# 🖊️ Citation
+
+Bugueno, Margarita, Francisco Mena, and Mauricio Araya. "*Refining exoplanet detection using supervised learning and feature engineering*." 2018 XLIV Latin American Computer Conference (CLEI). IEEE, 2018.
+```bibtex
+@inproceedings{bugueno2018refining,
+  title={Refining exoplanet detection using supervised learning and feature engineering},
+  author={Bugueno, Margarita and Mena, Francisco and Araya, Mauricio},
+  booktitle={2018 XLIV Latin American Computer Conference (CLEI)},
+  pages={278--287},
+  year={2018},
+  organization={IEEE}
+}
+```
+> Reference of our initial work 
+
+
+Mena, Francisco, Bugueño,Margarita and Araya, Mauricio. "*Classical machine learning techniques in the search of extrasolar planets*." CLEI electronic journal 22.3, 2019.
+```bibtex
+@article{mena2019classical,
+  title={Classical machine learning techniques in the search of extrasolar planets},
+  author={Mena, Francisco and Bugue{\~n}o, Margarita and Araya, Mauricio},
+  journal={CLEI electronic journal},
+  volume={22},
+  number={3},
+  pages={3--1},
+  year={2019}
+}
+```
+> Reference to our extended work in a journal
