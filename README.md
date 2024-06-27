@@ -84,7 +84,8 @@ Bugueno, Margarita, Francisco Mena, and Mauricio Araya. "*Refining exoplanet det
   booktitle={2018 XLIV Latin American Computer Conference (CLEI)},
   pages={278--287},
   year={2018},
-  organization={IEEE}
+  organization={IEEE},
+  doi={10.1109/CLEI.2018.00041}
 }
 ```
 > Reference of our initial work 
@@ -99,7 +100,8 @@ Mena, Francisco, Bugueño,Margarita and Araya, Mauricio. "*Classical machine lea
   volume={22},
   number={3},
   pages={3--1},
-  year={2019}
+  year={2019},
+  doi={10.19153/cleiej.22.3.3}
 }
 ```
 > Reference to our extended work in a journal
